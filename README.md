@@ -1,6 +1,6 @@
 # ATMOSPHERE PARTICLE ROCKET
 #### Author Name: Zach Hagelberg
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://www.youtube.com/watch?v=KOG3KITi3e8
 #### Description:
 In this game, you control an arc that is positioned inside an atmosphere of particles.  Each particle bounces off the arc, imparting some velocity.  You can make the arc expand with the up arrow, contract with the down arrow, rotate clockwise around the center with the right arrow, and rotate counterclockwise around the center with the left arrow.  It is an arc, so to increase the angle that particles can collide with, press D, and to decrease the angle that particles can collide with, press A.  With these 6 controls, the arc can move.  The button series A, up, right(or left) to rotate 180 degrees, down, D, will propell the rocket in a direction.
 
